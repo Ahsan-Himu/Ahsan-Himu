@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahsan-Himu
-- 👀 I’m interested in coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some python projects
+- 💞️ I’m looking forward to collaborate with you
 - 📫 Email me at ahsanhimuofficial@gmail.com
 
 <!---
